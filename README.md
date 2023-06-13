@@ -2,7 +2,9 @@
 Install Cpp with code blocks Tutorial
 
 ____________________________________________________
+https://www.codeblocks.org/
 
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
 <img src="https://github.com/DrAliSeif/Install_Cpp_with_codeblocks_Tutorial/blob/main/Install%20Cpp%20with%20code%20blocks%20Tutorial%20images/1.png" width=100% height=100%>
 
