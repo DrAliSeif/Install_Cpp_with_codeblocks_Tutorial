@@ -1,6 +1,15 @@
 # Install_Cpp_with_codeblocks_Tutorial
 Install Cpp with code blocks Tutorial
 
+## change theme code blocks to dracola theme
+
+only replase .conf file to "C:\Users\(user name)\AppData\Roaming\CodeBlocks"
+
+
+
+
+
+
 ____________________________________________________
 ### https://www.codeblocks.org/
 
